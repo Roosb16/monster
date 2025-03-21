@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 321.1 473.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8cc63f;
+        opacity: .8;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #a67c52;
+      }
+
+      .cls-4 {
+        fill: #39b54a;
+      }
+
+      .cls-5 {
+        fill: #d1b08a;
+      }
+
+      .cls-6 {
+        fill: #c69c6d;
+      }
+
+      .cls-3 {
+        opacity: .5;
+      }
+
+      .cls-7 {
+        fill: #999;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M250.72,148.31c0,6.43-38.28,9.89-79.57,10.4-7.71.09-15.52.08-23.21-.03-40.51-.59-77.57-4.04-77.57-10.37L125.41,9.52c0,5.24,69.62,5.24,69.62,0l55.69,138.79Z"/>
+  <path class="cls-7" d="M171.15,158.71v69h-23.21v-69.03c7.69.11,15.5.12,23.21.03Z"/>
+  <path class="cls-4" d="M125.41,9.66c0-2.17,69.62-2.17,69.62,0,.12,5.51-69.51,5.46-69.62,0Z"/>
+  <rect class="cls-5" y="227.71" width="321.1" height="225.18"/>
+  <rect class="cls-6" x="23.62" y="452.89" width="38.29" height="21.04"/>
+  <rect class="cls-6" x="259.58" y="452.89" width="38.29" height="21.04"/>
+  <rect class="cls-3" x="32.86" y="266.85" width="261.84" height="59.19"/>
+  <rect class="cls-3" x="32.86" y="357.26" width="261.84" height="59.19"/>
+  <circle class="cls-2" cx="163.78" cy="296.45" r="7.12"/>
+  <circle class="cls-2" cx="163.78" cy="386.86" r="7.12"/>
+</svg>

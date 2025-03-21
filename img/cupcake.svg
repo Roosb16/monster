@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169.2 119.88">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fbb03b;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke: #29abe2;
+      }
+
+      .cls-4 {
+        fill: #65c8d0;
+      }
+
+      .cls-5 {
+        fill: #8c5117;
+      }
+
+      .cls-6 {
+        fill: #f2f2f2;
+      }
+
+      .cls-3 {
+        stroke: #ed1c24;
+      }
+    </style>
+  </defs>
+  <ellipse id="bord" class="cls-6" cx="84.53" cy="98.6" rx="83.28" ry="18.31"/>
+  <g id="cupcake">
+    <path class="cls-5" d="M47.11,60.65c-12.84,0-12.84-27.11,0-27.11-6.63-11.12,14.78-23.89,21.41-12.77,9.62-14.15,20.2-12.15,31.4,0,10.54-9.43,28.38,10.5,17.84,19.94,9.12-3.97,15.54,10.78,6.42,14.75,2.3,2.85-4.12,8.03-6.42,5.19H47.11Z"/>
+    <polygon class="cls-4" points="47.11 60.2 57.82 103.32 107.84 103.32 117.76 60.2 47.11 60.2"/>
+    <line class="cls-3" x1="59.63" y1="26.42" x2="64.51" y2="31.3"/>
+    <line class="cls-3" x1="108.46" y1="26.76" x2="111.58" y2="32.92"/>
+    <line class="cls-3" x1="81.67" y1="53.85" x2="74.77" y2="53.58"/>
+    <line class="cls-1" x1="96.71" y1="48.55" x2="100.24" y2="42.62"/>
+    <line class="cls-1" x1="79.13" y1="36.02" x2="83.42" y2="41.44"/>
+    <line class="cls-1" x1="47.11" y1="47.27" x2="52" y2="42.39"/>
+    <line class="cls-2" x1="86.51" y1="22.27" x2="84.45" y2="28.86"/>
+    <line class="cls-2" x1="61.54" y1="45.47" x2="64.66" y2="51.64"/>
+    <line class="cls-2" x1="109.34" y1="50.16" x2="115.88" y2="52.37"/>
+  </g>
+</svg>

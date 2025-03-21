@@ -1,0 +1,116 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: -11.5em;
+    z-index: 10;
+}
+
+#knopLamp{
+    margin-left: 71.5em;
+    margin-top: -65.99em;
+    position: absolute;
+    display: none;
+    width: 16.5%;
+}
+
+#dobbel{
+    display: none;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 10em;
+    margin-top: 10.5em;
+}
+
+#speel{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: none;
+    margin-left: 30em;
+    margin-top: 2.5em;
+}
+
+#dood{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: none;
+    margin-left: 25em;
+    margin-top: 2.5em;
+}
+
+img{
+    width: 99%;
+    height: 99%;
+}
+
+.voedsel{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    margin-top: -43em;
+    margin-left: 4.6em;
+    display: none;
+}
+
+#knopDruif, #knopHamburger, #knopCake{
+    width: 9.5%;
+    margin: 0em 0.6em;
+}
+
+#knopSlapen, #knopEten, #knopSpelen{
+    width: 65%;
+    z-index: 1000;
+    position: relative;
+    display: block;
+}
+
+.progresbar{
+    width: 65%;
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+    margin-top: -12.33em;
+    margin-bottom: 12.58em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+#progresSlapen, #progresEten, #progresSpelen{
+    height: 100%;
+    width: 100%;
+    background-color: #8CC63F;
+    border-radius: 10px;
+    z-index: 0;
+    display: block;
+}
+
+#knopBal{
+    margin-left: 27.5em;
+    margin-top: -27.53em;
+    position: absolute;
+    width: 9.2%;
+    height: 15%;
+    display: none;
+}
+
+#menu{
+    display: block;
+}
+
+#reload{
+    display: none;
+    position: relative;
+    margin: auto;
+    margin-top: -8.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 10px 40px;
+    background-color: #8CC63F;
+    border: none;
+    color: rgb(229, 255, 188);
+    border-radius: 5px;
+}
